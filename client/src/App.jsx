@@ -91,7 +91,7 @@ const styles = {
     marginTop: "20px",
     padding: "15px 30px",
     fontSize: "20px",
-    backgroundColor: "#e11d48", // Red
+    backgroundColor: "#e11d48",
     color: "white",
     border: "none",
     borderRadius: "8px",
