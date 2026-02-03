@@ -46,6 +46,8 @@ npm install
 npm run dev
 # App running at http://localhost:5173
 
+```
+
 🤝 Contributing
 Feel free to fork this repo and add more roasting personalities!
 
