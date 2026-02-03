@@ -51,4 +51,4 @@ npm run dev
 🤝 Contributing
 Feel free to fork this repo and add more roasting personalities!
 
-Built for the Hackathon by [Rishi] & [Jeev Joel].
+Built for the Hackathon by Rishi & Jeev Joel.
