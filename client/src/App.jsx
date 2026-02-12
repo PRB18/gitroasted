@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+//ttok a break and now i dont understand my own code T_T
 function App() {
   // 1. STATE (The Memory)
   const [userCode, setUserCode] = useState("");
